@@ -1,0 +1,8 @@
+/* background.css */
+.stApp {
+    background-image: url('data:image/jpg;base64,{{img_str}}');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
